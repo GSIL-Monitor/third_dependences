@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c
+END
+printbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/printbuf.h
+END
+json_object_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_object_private.h
+END
+json_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_config.h
+END
+json_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_object.h
+END
+json_tokener.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_tokener.h
+END
+linkhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/linkhash.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/bits.h
+END
+json_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_util.h
+END
+json_object_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_object_iterator.h
+END
+json_inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_inttypes.h
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json.h
+END
+arraylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/arraylist.h
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/random_seed.h
+END
+json_c_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/json_c_version.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/xiaoju/!svn/ver/120378/server/strategy/dynamic_price_service/trunk/thirdparty/json-c/include/json-c/debug.h
+END
